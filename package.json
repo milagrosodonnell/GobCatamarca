@@ -1,0 +1,14 @@
+{
+  "name": "gob",
+  "version": "1.0.0",
+  "description": "maquetado",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ar-poncho": "^2.0.226"
+  }
+}
